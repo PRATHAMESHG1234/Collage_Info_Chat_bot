@@ -1,0 +1,252 @@
+
+.format-1 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  .format-1  p{
+    margin-bottom: 10px;
+  }
+  
+  .format-1  strong {
+    color: #007bff;
+  }
+  
+  .format-1  em {
+    font-style: italic;
+    color: #28a745;
+  }
+  
+ 
+  .format-2  {
+    background-color: #fff;
+    padding: 15px;
+    border: 2px solid #007bff;
+    border-radius: 8px;
+  }
+  
+  .format-2  p{
+    margin-bottom: 8px;
+  }
+  
+  .format-2  strong {
+    color: #007bff;
+  }
+  
+  .format-2  em {
+    font-style: italic;
+    color: #28a745;
+  }
+  
+  
+  .format-3  {
+    background-color: #f5f5f5;
+    padding: 18px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  .format-3  p{
+    margin-bottom: 8px;
+  }
+  
+  .format-3  strong {
+    color: #333;
+  }
+  
+  .format-3  em {
+    font-style: italic;
+    color: #28a745;
+  }
+  
+  /* Style for Format 4 */
+  .format-4  {
+    background-color: #fff;
+    padding: 18px;
+    border: 2px solid #28a745;
+    border-radius: 8px;
+  }
+  
+  .format-4  p{
+    margin-bottom: 10px;
+  }
+  
+  .format-4  strong {
+    color: #28a745;
+  }
+  
+  .format-4  em {
+    font-style: italic;
+    color: #007bff;
+  }
+  
+  /* Style for Format 5 */
+  .format-5  {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .format-5  p{
+    margin-bottom: 12px;
+  }
+  
+  .format-5  strong {
+    color: #ff9900;
+  }
+  
+  .format-5  em {
+    font-style: italic;
+    color: #007bff;
+  }
+  
+  /* Style for Format 6 */
+  .format-6  {
+    background-color: #fff;
+    padding: 18px;
+    border: 2px dashed #ff9900;
+    border-radius: 10px;
+  }
+  
+  .format-6  p{
+    margin-bottom: 10px;
+  }
+  
+  .format-6  strong {
+    color: #ff9900;
+  }
+  
+  .format-6  em {
+    font-style: italic;
+    color: #28a745;
+  }
+  
+  /* Style for Format 7 */
+  .format-7  {
+    background-color: #f5f5f5;
+    padding: 16px;
+    border: 1px solid #333;
+    border-radius: 8px;
+  }
+  
+  .format-7  p{
+    margin-bottom: 8px;
+  }
+  
+  .format-7  strong {
+    color: #333;
+  }
+  
+  .format-7  em {
+    font-style: italic;
+    color: #28a745;
+  }
+  
+  /* Style for Format 8 */
+  .format-8  {
+    background-color: #fff;
+    padding: 16px;
+    border: 2px solid #333;
+    border-radius: 6px;
+  }
+  
+  .format-8  p{
+    margin-bottom: 8px;
+  }
+  
+  .format-8  strong {
+    color: #333;
+  }
+  
+  .format-8  em {
+    font-style: italic;
+    color: #ff9900;
+  }
+  
+  /* Style for Format 9 */
+  .format-9  {
+    background-color: #f9f9f9;
+    padding: 18px;
+    border: 2px solid #ff9900;
+    border-radius: 8px;
+  }
+  
+  .format-9  p{
+    margin-bottom: 10px;
+  }
+  
+  .format-9  strong {
+    color: #ff9900;
+  }
+  
+  .format-9  em {
+    font-style: italic;
+    color: #333;
+  }
+  
+  /* Style for Format 10 */
+  .format-10  {
+    background-color: #fff;
+    padding: 18px;
+    border: 2px dashed #007bff;
+    border-radius: 10px;
+  }
+  
+  .format-10  p{
+    margin-bottom: 12px;
+  }
+  
+  .format-10  strong {
+    color: #007bff;
+  }
+  
+  .format-10  em {
+    font-style: italic;
+    color: #28a745;
+  }
+  
+
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+  
+  .blinking-cursor {
+    display: inline-block;
+    width: 8px;
+    height: 18px;
+    background-color: #000;
+    animation: blink 0.5s infinite;
+  }
+  .typing-text {
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Hanuman', serif;
+  }
+  
+  .error-message {
+    color: red; /* Set the color to red or your desired color */
+    font-weight: bold;
+    /* Add more styles as needed */
+  }
+  .available-questions {
+    text-align: center;
+  }
+  
+  .question-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  
+  .question-card:hover {
+    background-color: #f2f2f2;
+  }

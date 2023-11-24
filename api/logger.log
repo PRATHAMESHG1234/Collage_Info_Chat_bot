@@ -1,0 +1,1104 @@
+[31merror[39m: [SbEvent] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:26 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m12032[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m53063680[39m,
+      heapTotal: [33m21467136[39m,
+      heapUsed: [33m13420824[39m,
+      external: [33m631962[39m,
+      arrayBuffers: [33m33790[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743143.171[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:26 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m12032[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m52801536[39m,
+      heapTotal: [33m21467136[39m,
+      heapUsed: [33m12907736[39m,
+      external: [33m631898[39m,
+      arrayBuffers: [33m33766[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743143.156[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:26 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m12032[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m53096448[39m,
+      heapTotal: [33m21467136[39m,
+      heapUsed: [33m13526288[39m,
+      external: [33m631962[39m,
+      arrayBuffers: [33m33790[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743143.171[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:26 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m12032[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m53043200[39m,
+      heapTotal: [33m21467136[39m,
+      heapUsed: [33m13314968[39m,
+      external: [33m631962[39m,
+      arrayBuffers: [33m33790[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743143.171[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:33 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m21808[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m53202944[39m,
+      heapTotal: [33m21467136[39m,
+      heapUsed: [33m12955320[39m,
+      external: [33m631898[39m,
+      arrayBuffers: [33m33766[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743149.968[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:33 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m21808[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m53469184[39m,
+      heapTotal: [33m21467136[39m,
+      heapUsed: [33m13195520[39m,
+      external: [33m631962[39m,
+      arrayBuffers: [33m33790[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743149.984[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:33 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m21808[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m53506048[39m,
+      heapTotal: [33m21467136[39m,
+      heapUsed: [33m13300992[39m,
+      external: [33m631962[39m,
+      arrayBuffers: [33m33790[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743149.984[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:33 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m21808[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m53452800[39m,
+      heapTotal: [33m21467136[39m,
+      heapUsed: [33m13089672[39m,
+      external: [33m631962[39m,
+      arrayBuffers: [33m33790[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743149.968[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:45 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m24404[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m50159616[39m,
+      heapTotal: [33m21204992[39m,
+      heapUsed: [33m12885128[39m,
+      external: [33m631898[39m,
+      arrayBuffers: [33m33766[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743162.187[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:45 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m24404[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m50495488[39m,
+      heapTotal: [33m21204992[39m,
+      heapUsed: [33m13119680[39m,
+      external: [33m631962[39m,
+      arrayBuffers: [33m33790[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743162.203[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:45 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m24404[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m50515968[39m,
+      heapTotal: [33m21204992[39m,
+      heapUsed: [33m13225528[39m,
+      external: [33m631962[39m,
+      arrayBuffers: [33m33790[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743162.203[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: similarity.WordTokenizer is not a constructor 
+{
+  date: [32m'Fri Jun 30 2023 11:52:45 GMT+0530 (India Standard Time)'[39m,
+  process: {
+    pid: [33m24404[39m,
+    uid: [1mnull[22m,
+    gid: [1mnull[22m,
+    cwd: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api'[39m,
+    execPath: [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+    version: [32m'v18.14.0'[39m,
+    argv: [
+      [32m'C:\\Program Files\\nodejs\\node.exe'[39m,
+      [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m50577408[39m,
+      heapTotal: [33m21204992[39m,
+      heapUsed: [33m13331056[39m,
+      external: [33m631962[39m,
+      arrayBuffers: [33m33790[39m
+    }
+  },
+  os: { loadavg: [ [33m0[39m, [33m0[39m, [33m0[39m ], uptime: [33m743162.203[39m },
+  trace: [
+    {
+      column: [33m19[39m,
+      file: [32m'C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js'[39m,
+      function: [1mnull[22m,
+      line: [33m3[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1226[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1280[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m1089[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/cjs/loader'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m930[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'node:internal/modules/run_main'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m81[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m47[39m,
+      file: [32m'node:internal/main/run_main_module'[39m,
+      function: [1mnull[22m,
+      line: [33m23[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m'TypeError: similarity.WordTokenizer is not a constructor'[39m,
+    [32m'    at Object.<anonymous> (C:\\Users\\ghorp\\OneDrive\\Desktop\\web-development\\My projects\\chating-bot\\api\\similarSentences.js:3:19)'[39m,
+    [32m'    at Module._compile (node:internal/modules/cjs/loader:1226:14)'[39m,
+    [32m'    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)'[39m,
+    [32m'    at Module.load (node:internal/modules/cjs/loader:1089:32)'[39m,
+    [32m'    at Module._load (node:internal/modules/cjs/loader:930:12)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)'[39m,
+    [32m'    at node:internal/main/run_main_module:23:47'[39m
+  ]
+}
